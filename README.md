@@ -2,12 +2,12 @@
 
 <a id="mokuji_0"></a>
 ## Contents
-1. [Project 01 : Finding Donors](#mokuji_1)<br>
-1. [Project 02 : Identify Customer Segments](#mokuji_2)<br>
+1. [Project 01 : Supervised Learning , Finding Donors](#mokuji_1)<br>
+1. [Project 02 : Unsupervised Learning , Identify Customer Segments](#mokuji_2)<br>
 
 
 <a id="mokuji_1"></a>
-## [Project 01 : Finding Donors](#mokuji_0)
+## [Project 01 : Supervised Learning , Finding Donors](#mokuji_0)
 
 ### Introduction 
 In this project, I will employ several supervised algorithms to accurately model indivisuals' income using data collected from the 1944 U.S. Census.<br>
@@ -35,7 +35,7 @@ The goal of this project is to construct a model that accurately predicts whethe
 
 
 <a id="mokuji_2"></a>
-## [Project 02 : Identify Customer Segments](#mokuji_0)
+## [Project 02 : Unsupervised Learning , Identify Customer Segments](#mokuji_0)
 
 ### Introduction 
 

@@ -1,0 +1,86 @@
+id_1	id_2	id_3	attribute	explanation
+1	1	101	AGER_TYP	Best-ager typology
+1	2	102	ALTERSKATEGORIE_GROB	Estimated age based on given name analysis
+1	3	103	ANREDE_KZ	Gender
+1	4	104	CJT_GESAMTTYP	Customer-Journey-Typology: preferred information and buying channels for
+1	5	105	FINANZ_MINIMALIST	Financial typology, for each dimension:
+1	5	105	FINANZ_SPARER	Financial typology, for each dimension:
+1	5	105	FINANZ_VORSORGER	Financial typology, for each dimension:
+1	5	105	FINANZ_ANLEGER	Financial typology, for each dimension:
+1	5	105	FINANZ_UNAUFFAELLIGER	Financial typology, for each dimension:
+1	5	105	FINANZ_HAUSBAUER	Financial typology, for each dimension:
+1	6	106	FINANZTYP	Most descriptive financial type for individual
+1	7	107	GEBURTSJAHR	Year of birth
+1	8	108	GFK_URLAUBERTYP	Vacation habits
+1	9	109	GREEN_AVANTGARDE	Membership in environmental sustainability as part of youth
+1	10	110	HEALTH_TYP	Health typology
+1	11	111	LP_LEBENSPHASE_FEIN	Life stage, fine scale
+1	12	112	LP_LEBENSPHASE_GROB	Life stage, rough scale
+1	13	113	LP_FAMILIE_FEIN	Family type, fine scale
+1	14	114	LP_FAMILIE_GROB	Family type, rough scale
+1	15	115	LP_STATUS_FEIN	Social status, fine scale
+1	16	116	LP_STATUS_GROB	Social status, rough scale
+1	17	117	NATIONALITAET_KZ	Nationality based on given name analysis
+1	18	118	PRAEGENDE_JUGENDJAHRE	Dominating movement of person's youth (avantgarde vs. mainstream; east vs. west)
+1	19	119	RETOURTYP_BK_S	Return type
+1	20	120	SEMIO_SOZ	Personality typology, for each dimension:
+1	20	120	SEMIO_FAM	Personality typology, for each dimension:
+1	20	120	SEMIO_REL	Personality typology, for each dimension:
+1	20	120	SEMIO_MAT	Personality typology, for each dimension:
+1	20	120	SEMIO_VERT	Personality typology, for each dimension:
+1	20	120	SEMIO_LUST	Personality typology, for each dimension:
+1	20	120	SEMIO_ERL	Personality typology, for each dimension:
+1	20	120	SEMIO_KULT	Personality typology, for each dimension:
+1	20	120	SEMIO_RAT	Personality typology, for each dimension:
+1	20	120	SEMIO_KRIT	Personality typology, for each dimension:
+1	20	120	SEMIO_DOM	Personality typology, for each dimension:
+1	20	120	SEMIO_KAEM	Personality typology, for each dimension:
+1	20	120	SEMIO_PFLICHT	Personality typology, for each dimension:
+1	20	120	SEMIO_TRADV	Personality typology, for each dimension:
+1	21	121	SHOPPER_TYP	Shopper typology
+1	22	122	SOHO_KZ	Small office / home office flag
+1	23	123	TITEL_KZ	Academic title flag
+1	24	124	VERS_TYP	Insurance typology
+1	25	125	ZABEOTYP	Energy consumption typology
+2	1	201	ALTER_HH	Birthdate of head of household
+2	2	202	ANZ_PERSONEN	Number of adults in household
+2	3	203	ANZ_TITEL	Number of professional academic title holders in household
+2	4	204	HH_EINKOMMEN_SCORE	Estimated household net income
+2	5	205	KK_KUNDENTYP	Consumer pattern over past 12 months
+2	6	206	W_KEIT_KIND_HH	Likelihood of children in household
+2	7	207	WOHNDAUER_2008	Length of residence
+3	1	301	ANZ_HAUSHALTE_AKTIV	Number of households in the building
+3	2	302	ANZ_HH_TITEL	Number of professional academic title holders in building
+3	3	303	GEBAEUDETYP	Type of building (residential vs. commercial)
+3	4	304	KONSUMNAEHE	Distance from building to point of sale (PoS)
+3	5	305	MIN_GEBAEUDEJAHR	First year building was mentioned in the database
+3	6	306	OST_WEST_KZ	Building location via former East / West Germany (GDR / FRG)
+3	7	307	WOHNLAGE	Neighborhood quality (or rural flag)
+4	1	401	CAMEO_DEUG_2015	German CAMEO: Wealth / Life Stage Typology, rough scale
+4	2	402	CAMEO_DEU_2015	German CAMEO: Wealth / Life Stage Typology, detailed scale
+4	3	403	CAMEO_INTL_2015	German CAMEO: Wealth / Life Stage Typology, mapped to international code
+5	1	501	KBA05_ANTG1	Number of 1-2 family houses in the microcell
+5	2	502	KBA05_ANTG2	Number of 3-5 family houses in the microcell
+5	3	503	KBA05_ANTG3	Number of 6-10 family houses in the microcell
+5	4	504	KBA05_ANTG4	Number of 10+ family houses in the microcell
+5	5	505	KBA05_BAUMAX	Most common building type within the microcell
+5	6	506	KBA05_GBZ	Number of buildings in the microcell
+6	1	601	BALLRAUM	Distance to nearest urban center
+6	2	602	EWDICHTE	Density of households per square kilometer
+6	3	603	INNENSTADT	Distance to city center (downtown)
+7	1	701	GEBAEUDETYP_RASTER	Ratio of residential to commercial activity
+7	2	702	KKK	Purchasing power in region
+7	3	703	MOBI_REGIO	Movement patterns
+7	4	704	ONLINE_AFFINITAET	Online affinity
+7	5	705	REGIOTYP	Neighborhood typology
+8	1	801	KBA13_ANZAHL_PKW	Number of cars in the PLZ8 region
+8	2	802	PLZ8_ANTG1	Number of 1-2 family houses in the PLZ8 region
+8	3	803	PLZ8_ANTG2	Number of 3-5 family houses in the PLZ8 region
+8	4	804	PLZ8_ANTG3	Number of 6-10 family houses in the PLZ8 region
+8	5	805	PLZ8_ANTG4	Number of 10+ family houses in the PLZ8 region
+8	6	806	PLZ8_BAUMAX	Most common building type within the PLZ8 region
+8	7	807	PLZ8_HHZ	Number of households within the PLZ8 region
+8	8	808	PLZ8_GBZ	Number of buildings within the PLZ8 region
+9	1	901	ARBEIT	Share of unemployment in community
+9	2	902	ORTSGR_KLS9	Size of community
+9	3	903	RELAT_AB	Share of unemployment relative to county in which community is contained
